@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which zone is the largest in Indian Railways?",
+    "options": [
+      "Northern Railway",
+      "Eastern Railway",
+      "Western Railway",
+      "Central Railway"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which year was the first passenger train run in India?",
+    "options": [
+      "1853",
+      "1848",
+      "1872",
+      "1861"
+    ],
+    "answer": 0
+  }
+]
